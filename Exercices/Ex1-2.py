@@ -1,0 +1,1 @@
+annee = input('Quelle est votre année de naissance ?')
