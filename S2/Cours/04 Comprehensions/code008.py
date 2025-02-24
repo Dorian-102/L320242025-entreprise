@@ -1,5 +1,5 @@
 sentence = (
-    "The rocket, who was named Ted, came back "
+    "The rocket, who was 6 named Ted, came back "
     "from Mars because he missed his friends."
 )
 
