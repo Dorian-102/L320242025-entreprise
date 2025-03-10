@@ -1,0 +1,1 @@
+lettre.lower() in 'aeiou'  for fruit in liste
