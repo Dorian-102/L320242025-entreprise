@@ -3,9 +3,9 @@ x = 'global'
 def f():
 
     def g():
-    print(x)
+        print(x)
 
-g()
+    g()
 
 
 f()
