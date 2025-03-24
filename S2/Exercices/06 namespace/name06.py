@@ -3,7 +3,7 @@ def f():
     def g():
         print(x)
 
-        g()
+    g()
 
 
 f()
