@@ -1,8 +1,8 @@
 from math import prod
+
+
 def checkio(number: int) -> int:
-    return prod([int(val) for val in str(number) if val !='0'])
-
-
+    return prod([int(val) for val in str(number) if val != '0'])
 
 
 assert checkio(123405) == 120
